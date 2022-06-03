@@ -1,0 +1,2 @@
+# foundry-config
+FoundryVTT Configuration
